@@ -13,3 +13,8 @@
 ### CHANGED
 
 - Fixed High severity issues
+
+### CHANGED
+
+-FIxed low severity issues
+
